@@ -1,3 +1,3 @@
-# KusOS
+# ⚠️ ARCHIVED ⚠️
 
-This is a very WIP OS designed for the Raspberry Pi 4.
+New Repository: https://codeberg.org/ExoSkye/SynOS
